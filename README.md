@@ -15,10 +15,9 @@ Accuracy We got 73%
 
     HomePage
 
-![Alt text](<img width="1537" height="809" alt="Homepage" src="https://github.com/user-attachments/assets/d53e9600-c9c7-4d63-9740-353d0f9187be" />
-)
+![Alt text](img width="1537" height="809" alt="Homepage" src="https://github.com/user-attachments/assets/d53e9600-c9c7-4d63-9740-353d0f9187be" /)
 Result
-![Alt text](<img width="1386" height="853" alt="result" src="https://github.com/user-attachments/assets/a9ae4976-fa08-403e-8aa7-65c5ffc5b134" />)
+![Alt text](img width="1386" height="853" alt="result" src="https://github.com/user-attachments/assets/a9ae4976-fa08-403e-8aa7-65c5ffc5b134" /)
 
 ### Packages and Tools Required:
 
